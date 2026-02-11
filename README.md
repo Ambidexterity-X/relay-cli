@@ -1,4 +1,4 @@
-# relay
+# relay-cli
 
 A terminal-based multi-user chat application powered by Supabase. Users can register, log in, create chat rooms, and exchange messages in real time. The CLI is built with Typer for easy command handling, and Rich for beautiful terminal output. Messages are delivered instantly via Supabase Realtime (WebSockets).
 
